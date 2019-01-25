@@ -19,6 +19,8 @@ platforms:
     driver: 
       image: dokken/centos-7
       pid_one_command: /usr/lib/systemd/systemd
+      ports:
+        - 9080:80
 
 verifier:
   name: inspec

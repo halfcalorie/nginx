@@ -2,8 +2,8 @@ name 'nginx'
 maintainer 'The Weather Company, an IBM Business'
 maintainer_email 'Nakeem.Purkiss@ibm.com'
 license 'All Rights Reserved'
-description 'Installs/Configures nginx'
-long_description 'Installs/Configures nginx'
+description 'Installs/Configures a simple website using the nginx web server'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version '0.1.0'
 chef_version '>= 13.0'
 
