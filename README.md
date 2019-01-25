@@ -1,4 +1,5 @@
 # nginx
+[![Build Status](https://travis-ci.org/halfcalorie/nginx.svg?branch=master)](https://travis-ci.org/halfcalorie/nginx)
 
 This coobook installs and configured a simple website using the nginx web server 
 
