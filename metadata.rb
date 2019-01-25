@@ -4,7 +4,7 @@ maintainer_email 'Nakeem.Purkiss@ibm.com'
 license 'All Rights Reserved'
 description 'Installs/Configures a simple website using the nginx web server'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version '0.1.0'
+version '0.1.1'
 chef_version '>= 13.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
